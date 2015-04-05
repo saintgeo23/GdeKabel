@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GdeKabel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GdeKabel_jar</output-path>
+    <root id="archive" name="GdeKabel.jar">
+      <element id="module-output" name="GdeKabel" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jsoup-1.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
